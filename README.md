@@ -1,2 +1,2 @@
 Hi Git
-Learning Git Basics
+Learning The Git Basics
